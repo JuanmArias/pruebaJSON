@@ -1,31 +1,80 @@
 {
-  "posts": [
+  "volkswagen": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "nombre": "Gol",
+      "sumaAsegurada": 700000,
+      "tarifaOrigen": 0.28,
+      "prima": 20000
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "nombre": "Scirocco",
+      "sumaAsegurada": 900000,
+      "tarifaOrigen": 0.6,
+      "prima": 25000
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "nombre": "Fox",
+      "sumaAsegurada": 700000,
+      "tarifaOrigen": 0.28,
+      "prima": 20000
+    },
+    {
+      "nombre": "Saveiro",
+      "sumaAsegurada": 900000,
+      "tarifaOrigen": 0.6,
+      "prima": 25000
     }
   ],
-  "comments": [
+  "chevrolet": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "nombre": "Classic",
+      "sumaAsegurada": 700000,
+      "tarifaOrigen": 0.28,
+      "prima": 20000
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "nombre": "Corsa",
+      "sumaAsegurada": 900000,
+      "tarifaOrigen": 0.6,
+      "prima": 25000
+    },
+    {
+      "nombre": "Sonic",
+      "sumaAsegurada": 700000,
+      "tarifaOrigen": 0.28,
+      "prima": 20000
+    },
+    {
+      "nombre": "Vectra",
+      "sumaAsegurada": 900000,
+      "tarifaOrigen": 0.6,
+      "prima": 25000
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "fiat": [
+    {
+      "nombre": "Palio",
+      "sumaAsegurada": 500000,
+      "tarifaOrigen": 0.2,
+      "prima": 18000
+    },
+    {
+      "nombre": "Chronos",
+      "sumaAsegurada": 900000,
+      "tarifaOrigen": 0.6,
+      "prima": 25000
+    },
+    {
+      "nombre": "Fiorino",
+      "sumaAsegurada": 700000,
+      "tarifaOrigen": 0.28,
+      "prima": 20000
+    },
+    {
+      "nombre": "Siena",
+      "sumaAsegurada": 350000,
+      "tarifaOrigen": 0.1,
+      "prima": 16000
+    }
+  ]
 }
